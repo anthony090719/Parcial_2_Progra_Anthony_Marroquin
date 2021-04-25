@@ -1,0 +1,3 @@
+insert into contenido(id, nombre, resumen, contenido, fecha) values (1, 'SpiderMan', 'categoria peliculas y genero accion', ' basada en historias de heroes', 'enero 2021')
+insert into contenido(id, nombre, resumen, contenido, fecha) values (2, 'Transformers', 'pertenece a la categoria pelicula y genero accion', ' trata sobre una guerra entre robots', 'diciembre 2018')
+insert into contenido(id, nombre, resumen, contenido, fecha) values (3, '911', 'pertenece a la categoria series y genero suspenso', 'trata sobre casos policiales', 'marzo2020')
